@@ -1,0 +1,21 @@
+{
+  "Name": "тяночка моется!",
+  "Description": "тяночка моется-полностью голенькая",
+  "StartClientVersion": 334,
+  "ApiVersion": 2,
+  "MapLists": [
+    {
+      "MapListId": 8401,
+      "Name": "Заготовки"
+    }
+  ],
+  "Parameters": {
+    "Bool": [
+      {
+        "Name": "BlueTeam",
+        "DisplayName": "Teams/Blue",
+        "Default": true
+      }
+    ]
+  }
+}
